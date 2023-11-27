@@ -4,5 +4,6 @@ mod boo;
 fn main() {
     let f = foo::Foo::new("hello");
     let res = boo::answer();
-    println!("{:?} {}", f, res);
+    let q = boo::bar::question();
+    println!("{:?} {} {}", f, res, q);
 }
