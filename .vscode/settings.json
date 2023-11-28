@@ -3,5 +3,9 @@
     "rust-analyzer.linkedProjects": [
         "./basic/Cargo.toml",
         "./modules/Cargo.toml",
+        "./test-json/Cargo.toml",
+        "./test-serde-json/Cargo.toml",
+        "./test-regex/Cargo.toml",
+        "./test-chrono/Cargo.toml",
     ]
 }
