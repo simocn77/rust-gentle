@@ -8,5 +8,6 @@
         "./test-regex/Cargo.toml",
         "./test-chrono/Cargo.toml"
         "./test-readfile/Cargo.toml",
+        "./test-stdlib/Cargo.toml",
 ]
 }
