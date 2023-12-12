@@ -10,5 +10,11 @@
 	"./test-readfile/Cargo.toml",
         "./test-stdlib/Cargo.toml",
         "./test-error-handling/Cargo.toml",
+        "./test-multithreading/Cargo.toml",
+        "./test-channels/Cargo.toml",
+        "./test-synchronization/Cargo.toml",
+        "./test-shared-state/Cargo.toml",
+        "./test-pipeline/Cargo.toml",
+        "./test-tcp-client-server/Cargo.toml",
 ]
 }
