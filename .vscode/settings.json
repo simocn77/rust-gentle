@@ -16,5 +16,7 @@
         "./test-shared-state/Cargo.toml",
         "./test-pipeline/Cargo.toml",
         "./test-tcp-client-server/Cargo.toml",
+        "./test-object-oriented-programming/Cargo.toml",
+        "./test-inheritance/Cargo.toml"
 ]
 }
