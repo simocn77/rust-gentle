@@ -17,6 +17,7 @@
         "./test-pipeline/Cargo.toml",
         "./test-tcp-client-server/Cargo.toml",
         "./test-object-oriented-programming/Cargo.toml",
-        "./test-inheritance/Cargo.toml"
+        "./test-inheritance/Cargo.toml",
+        "./test-parsing-text-with-nom/Cargo.toml"
 ]
 }
